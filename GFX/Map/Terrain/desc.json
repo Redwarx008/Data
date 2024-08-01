@@ -1,0 +1,52 @@
+{
+    "textures": [
+        {
+            "name": "beach_01",
+            "diffuse": "beach_01_diffuse.dds",
+            "normal": "beach_01_normal.dds",
+            "mask": "beach_02_mask.png"
+        },
+        {
+            "name": "cliff_granite_01",
+            "diffuse": "cliff_granite_01_diffuse.dds",
+            "normal": "cliff_granite_01_normal.dds",
+            "mask": "cliff_granite_01_mask.png"
+        },
+        {
+            "name": "desert_01",
+            "diffuse": "desert_01_diffuse.dds",
+            "normal": "desert_01_normal.dds",
+            "mask": "desert_01_01_mask.png"
+        },
+        {
+            "name": "desert_02",
+            "diffuse": "desert_02_diffuse.dds",
+            "normal": "desert_02_normal.dds",
+            "mask": "desert_02_mask.png"
+        },
+        {
+            "name": "desert_05",
+            "diffuse": "desert_05_diffuse.dds",
+            "normal": "desert_05_normal.dds",
+            "mask": "desert_05_mask.png"
+        },
+        {
+            "name": "farmlands_01",
+            "diffuse": "farmlands_01_diffuse.dds",
+            "normal": "farmlands_01_normal.dds",
+            "mask": "farmlands_01_mask.png"
+        },
+        {
+            "name": "grasslands_01",
+            "diffuse": "grasslands_01_diffuse.dds",
+            "normal": "grasslands_01_normal.dds",
+            "mask": "grasslands_01_mask.png"
+        },
+        {
+            "name": "rocks_01",
+            "diffuse": "rocks_01_diffuse.dds",
+            "normal": "rocks_01_normal.dds",
+            "mask": "rocks_01_mask.png"
+        }
+    ]
+}
